@@ -1,5 +1,8 @@
 <h1 align="center">
 
+![image](https://user-images.githubusercontent.com/38869253/149644564-ba12a386-b80e-4987-b569-56cc08330e32.png)
+
+
 <br/>
 SolicenTEAM.ReNPTranslalor 
 </h1>
